@@ -1,9 +1,9 @@
 class Lindex < Formula
   desc "lindex, a markdown document indexer"
-  version "0.1.6"
+  version "0.1.7"
   homepage "https://github.com/mipmip/lindex"
   url "https://github.com/mipmip/lindex/archive/v#{version}.tar.gz"
-  sha256 "9da595b132094b4404533addb556d30b96ff597724b2f4287f3de12e60371ce0"
+  sha256 "d28330e56644b77cb47364b9cb2163308aea55072864e074cb9012313be38c28"
   depends_on "crystal-lang"
 
   def install
